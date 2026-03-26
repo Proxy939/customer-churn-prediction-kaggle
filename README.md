@@ -19,8 +19,13 @@ Contract risk flags
 Service count features
 Model Training
 Start simple → Logistic Regression
-Then go advanced:
+advanced:
 LightGBM 🔥
 XGBoost 🔥
 CatBoost 🔥
+
 Cross Validation
+✔ Optuna tuning
+✔ Stacking
+✔ Blending
+✔ Feature basics
